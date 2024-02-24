@@ -5,26 +5,29 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: linkedin
+    url: https://www.linkedin.com/in/williamrcarpenter/
+
+  - title: github
+    url:   https://github.com/wrcarpenter
 
 project_entries:
-  - title: Project 1
+  - title: MMA Model
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Betting model.
 
-  - title: Project 2
+  - title: Reverse Mortgage
     url: overview-post
     desc: Projects are shown in card layout
 
-  - title: Project 3
+  - title: Z-Spread
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: Calculate Z-spread for fixed income securities.
 
-  - title: Project 4
+  - title: Poker Bot
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+    desc: Play poker.
+    highlight: POKER
 
   - title: Project 5
     url: overview-post
@@ -54,8 +57,8 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: link
+    url: link
 
   - title: twitter
     url: https://twitter.com/abhinav
