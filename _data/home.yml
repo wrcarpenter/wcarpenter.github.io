@@ -40,7 +40,7 @@ project_entries:
     highlight: UPDATED
 
   - title: Interest Rate Model
-    url: overview-post
+    url: rate-models-post
     desc: Implementing the Black-Derman-Toy interest model to create simulations
           and various fixed income securities - caps, swaps, bonds, etc.
 
