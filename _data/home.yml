@@ -12,7 +12,7 @@ navbar_entries:
     url:   https://github.com/wrcarpenter
 
   - title: resume
-    url:   resume
+    url:   https://github.com/wrcarpenter/Resume/blob/main/Carpenter_William_Resume_Feb24.pdf
 
 project_entries:
   - title: MMA Model
