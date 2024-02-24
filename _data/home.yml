@@ -11,6 +11,9 @@ navbar_entries:
   - title: github
     url:   https://github.com/wrcarpenter
 
+  - title: resume
+    url:   resume
+
 project_entries:
   - title: MMA Model
     url: overview-post
@@ -27,12 +30,13 @@ project_entries:
   - title: Poker Bot
     url: overview-post
     desc: Play poker.
-    highlight: POKER
+    highlight: NEW
 
-  - title: Project 5
+  - title: Longer Name to test how the Card will adapt.
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+    desc: Moonwalk also has horizontal list (used in header and footer). Keep adding text to test out this card design. 
+          Curious to see how it actually works for me here.
+    highlight: UPDATED
 
   - title: Project 6
     url: overview-post
