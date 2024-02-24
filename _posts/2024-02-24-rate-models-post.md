@@ -14,9 +14,9 @@ Github page with more details here!
 ## Mathematical Foundations
 
 ## Model Choice
+![theme logo](https://raw.githubusercontent.com/wrcarpenter/wcarpenter.github.io/master/images/code.png)
 
 ## Model Construction
-
 
 And here is some `inline code`!
 
