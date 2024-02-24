@@ -17,11 +17,13 @@ navbar_entries:
 project_entries:
   - title: MMA Model
     url: overview-post
-    desc: Betting model.
+    desc: Data-driven, sports wagering model for MMA (mixed-martial-arts) contests.
+    highlight: FOCUS
 
-  - title: Reverse Mortgage
+  - title: Reverse Mortgage Behavior
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: Calculating cash-flows and prepayment rates on home equity conversion mortgages (HECM) using publically available data.
+    highlight: IN-PROGRESS
 
   - title: Z-Spread
     url: overview-post
@@ -32,18 +34,17 @@ project_entries:
     desc: Play poker.
     highlight: NEW
 
-  - title: Longer Name to test how the Card will adapt.
+  - title: Equity Derivative Models
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer). Keep adding text to test out this card design. 
-          Curious to see how it actually works for me here.
+    desc: Numerical methods for option pricing with lattices, Monte Carlo, Black-Scholes, etc.
     highlight: UPDATED
 
-  - title: Project 6
+  - title: Project
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
-  - title: Soopr
+  - title: Economics Junior Thesis.
     url: https://www.soopr.co
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
