@@ -39,9 +39,10 @@ project_entries:
     desc: Numerical methods for option pricing with lattices, Monte Carlo, Black-Scholes, etc.
     highlight: UPDATED
 
-  - title: Project
+  - title: Interest Rate Model
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: Implementing the Black-Derman-Toy interest model to create simulations
+          and various fixed income securities - caps, swaps, bonds, etc.
 
 old_project_entries:
   - title: Economics Junior Thesis.
