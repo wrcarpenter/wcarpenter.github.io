@@ -12,7 +12,10 @@ navbar_entries:
     url:   https://github.com/wrcarpenter
 
   - title: resume
-    url:   https://github.com/wrcarpenter/Resume/blob/main/Carpenter_William_Resume_Feb24.pdf
+    url:   https://github.com/wrcarpenter/wcarpenter.github.io/blob/master/_pdfs/Carpenter_William_Resume_Feb24.pdf
+
+  - title: contact
+    url: contact
 
 project_entries:
   - title: MMA Model
@@ -27,7 +30,7 @@ project_entries:
 
   - title: Z-Spread
     url: overview-post
-    desc: Calculate Z-spread for fixed income securities.
+    desc: Bootstrapping a zero-coupon yield curve and using it to calculate zero volatility spread for fixed income securities.
 
   - title: Poker Bot
     url: overview-post
@@ -46,8 +49,8 @@ project_entries:
 
 old_project_entries:
   - title: Economics Junior Thesis.
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    url: https://www.soopr.com
+    desc: Junior Economics thesis paper about risks of negative interest rates.
     highlight: NEW
 
   - title: Another Project
