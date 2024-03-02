@@ -40,7 +40,7 @@ theme_config:
 
   # options for "home" page
   home:
-    title_projects: Portfolio
+    title_projects: Projects
     title_misc_list: Details
     title_old_projects: Older Projects
     title_blog: Blog
