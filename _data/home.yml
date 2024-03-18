@@ -18,12 +18,12 @@ navbar_entries:
     url: contact
 
 project_entries:
-  - title: MMA Model
+  - title: MMA Betting Model
     url: overview-post
     desc: Data-driven, sports wagering model for MMA (mixed-martial-arts) contests.
     highlight: FOCUS
 
-  - title: Reverse Mortgage Behavior
+  - title: Reverse Mortgage
     url: overview-post
     desc: Calculating cash-flows and prepayment rates on home equity conversion mortgages (HECM) using publically available data.
     highlight: IN-PROGRESS
@@ -31,6 +31,7 @@ project_entries:
   - title: Z-Spread
     url: overview-post
     desc: Bootstrapping a zero-coupon yield curve and using it to calculate zero volatility spread for fixed income securities.
+    highlight: Bond-Math
 
   - title: Poker Bot
     url: overview-post
