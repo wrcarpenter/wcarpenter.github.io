@@ -29,7 +29,7 @@ project_entries:
     highlight: IN-PROGRESS
 
   - title: Z-Spread
-    url: overview-post
+    url: z-spread-post
     desc: Bootstrapping a zero-coupon yield curve and using it to calculate zero volatility spread for fixed income securities.
     highlight: Bond-Math
 
