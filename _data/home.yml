@@ -23,19 +23,14 @@ project_entries:
     desc: Data-driven, sports wagering model for MMA (mixed-martial-arts) contests.
     highlight: FOCUS
 
-  - title: Reverse Mortgage
-    url: overview-post
-    desc: Calculating cash-flows and prepayment rates on home equity conversion mortgages (HECM) using publically available data.
-    highlight: IN-PROGRESS
-
   - title: Z-Spread
-    url: z-spread-post
+    url: Z-Spread-post
     desc: Bootstrapping a zero-coupon yield curve and using it to calculate zero volatility spread for fixed income securities.
     highlight: Bond-Math
 
-  - title: Poker Bot
-    url: overview-post
-    desc: Play poker.
+  - title: Interest Rate Models
+    url: Interest-Rate-Model
+    desc: Implementing a Ho-Lee rate model to price fixed income securities. 
     highlight: NEW
 
   - title: Equity Derivative Models
@@ -43,33 +38,28 @@ project_entries:
     desc: Numerical methods for option pricing with lattices, Monte Carlo, Black-Scholes, etc.
     highlight: UPDATED
 
-  - title: Interest Rate Model
-    url: rate-models-post
-    desc: Implementing the Black-Derman-Toy interest model to create simulations
-          and various fixed income securities - caps, swaps, bonds, etc.
-
 old_project_entries:
   - title: Economics Junior Thesis.
-    url: https://www.soopr.com
+    url: link
     desc: Junior Economics thesis paper about risks of negative interest rates.
     highlight: NEW
 
-  - title: Another Project
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: Economics Senior Thesis
+    url: link
+    desc: Senior Economics thesis paper about the effect of COVID-19 and government programs on the stability of the CMBS market.
 
 footer_entries:
   - title: link
     url: link
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: linkedin
+    url: https://www.linkedin.com/in/williamrcarpenter/
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/wrcarpenter
 
-  - title: feed
-    url: feed.xml
+  - title: resume
+    url: https://github.com/wrcarpenter/wcarpenter.github.io/blob/master/_pdfs/Carpenter_William_Resume_Feb24.pdf
 
 misc_entries:
   - title: this is an example vertical list
