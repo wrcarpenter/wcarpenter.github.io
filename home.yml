@@ -24,12 +24,12 @@ project_entries:
     highlight: FOCUS
 
   - title: Z-Spread
-    url: overview-post
+    url: Z-Spread-post
     desc: Bootstrapping a zero-coupon yield curve and using it to calculate zero volatility spread for fixed income securities.
     highlight: Bond-Math
 
   - title: Interest Rate Models
-    url: https://github.com/wrcarpenter/Interest-Rate-Models
+    url: Interest-Rate-Model
     desc: Implementing a Ho-Lee rate model to price fixed income securities. 
     highlight: NEW
 
@@ -38,20 +38,15 @@ project_entries:
     desc: Numerical methods for option pricing with lattices, Monte Carlo, Black-Scholes, etc.
     highlight: UPDATED
 
-  - title: Interest Rate Model
-    url: rate-models-post
-    desc: Implementing the Black-Derman-Toy interest model to create simulations
-          and various fixed income securities - caps, swaps, bonds, etc.
-
 old_project_entries:
   - title: Economics Junior Thesis.
-    url: https://www.soopr.com
+    url: link
     desc: Junior Economics thesis paper about risks of negative interest rates.
     highlight: NEW
 
-  - title: Another Project
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: Economics Senior Thesis
+    url: link
+    desc: Senior Economics thesis paper about the effect of COVID-19 and government programs on the stability of the CMBS market.
 
 footer_entries:
   - title: link
