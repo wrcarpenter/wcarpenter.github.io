@@ -23,21 +23,6 @@ project_entries:
     desc: Data-driven, sports wagering model for MMA (mixed-martial-arts) contests.
     highlight: FOCUS
 
-  - title: Z-Spread
-    url: Z-Spread-post
-    desc: Bootstrapping a zero-coupon yield curve and using it to calculate zero volatility spread for fixed income securities.
-    highlight: Bond-Math
-
-  - title: Interest Rate Models
-    url: Interest-Rate-Model
-    desc: Implementing a Ho-Lee rate model to price fixed income securities. 
-    highlight: NEW
-
-  - title: Equity Derivative Models
-    url: overview-post
-    desc: Numerical methods for option pricing with lattices, Monte Carlo, Black-Scholes, etc.
-    highlight: UPDATED
-
 old_project_entries:
   - title: Economics Junior Thesis.
     url: link
