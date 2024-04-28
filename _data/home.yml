@@ -2,9 +2,6 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
-    url: blog
-
   - title: linkedin
     url: https://www.linkedin.com/in/williamrcarpenter/
 
@@ -13,6 +10,9 @@ navbar_entries:
 
   - title: resume
     url:   https://github.com/wrcarpenter/wcarpenter.github.io/blob/master/_pdfs/Carpenter_William_Resume_Feb24.pdf
+
+  - title: blog
+    url: blog
 
   - title: contact
     url: contact
