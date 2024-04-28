@@ -1,14 +1,13 @@
-title: William Carpenter
-author: William Carpenter
-url: https://wrcarpenter.github.io/wcarpenter.github.io/ # root address of the site
-description: > # description of the site (multiple lines allowed)
-  Welcome. Personal site to exhibit projects and Blog posts.\n 
-  
-  Securitized Products Trader, CMBS and Adjustable-Rate (2021-Present)
-  Princeton University, Bachelor in Economics (2017-2021)\n
-  
-  Personal interests: Visual Arts, Billiards, etc. 
 
+title: William Carpenter
+
+author: William Carpenter
+
+url: https://wrcarpenter.github.io/wcarpenter.github.io/ # root address of the site
+
+description: > # description of the site (multiple lines allowed)
+
+Thanks for stopping by! I work full time in the mortgage-backed securities industry and have a side passion for programming and visual arts.
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
@@ -16,6 +15,7 @@ favicon: "./logo.png" # relative path to site's favicon
 twitter:
     username: wcarpenter # update or delete this
     card: summary_large_image
+
 
 #theme:
 remote_theme: abhinavs/moonwalk
@@ -56,3 +56,4 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  

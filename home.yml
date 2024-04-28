@@ -57,14 +57,14 @@ footer_entries:
   - title: link
     url: link
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: linkedin
+    url: https://www.linkedin.com/in/williamrcarpenter/
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/wrcarpenter
 
-  - title: feed
-    url: feed.xml
+  - title: resume
+    url: https://github.com/wrcarpenter/wcarpenter.github.io/blob/master/_pdfs/Carpenter_William_Resume_Feb24.pdf
 
 misc_entries:
   - title: this is an example vertical list
