@@ -1,0 +1,101 @@
+navbar_entries:
+  - title: about
+    url: about
+
+  - title: blog
+    url: blog
+
+  - title: linkedin
+    url: https://www.linkedin.com/in/williamrcarpenter/
+
+  - title: github
+    url:   https://github.com/wrcarpenter
+
+  - title: resume
+    url:   https://github.com/wrcarpenter/wcarpenter.github.io/blob/master/_pdfs/Carpenter_William_Resume_Feb24.pdf
+
+  - title: contact
+    url: contact
+
+project_entries:
+  - title: MMA Betting Model
+    url: overview-post
+    desc: Data-driven, sports wagering model for MMA (mixed-martial-arts) contests.
+    highlight: FOCUS
+
+  - title: Z-Spread
+    url: overview-post
+    desc: Bootstrapping a zero-coupon yield curve and using it to calculate zero volatility spread for fixed income securities.
+    highlight: Bond-Math
+
+  - title: Interest Rate Models
+    url: https://github.com/wrcarpenter/Interest-Rate-Models
+    desc: Implementing a Ho-Lee rate model to price fixed income securities. 
+    highlight: NEW
+
+  - title: Equity Derivative Models
+    url: overview-post
+    desc: Numerical methods for option pricing with lattices, Monte Carlo, Black-Scholes, etc.
+    highlight: UPDATED
+
+  - title: Interest Rate Model
+    url: rate-models-post
+    desc: Implementing the Black-Derman-Toy interest model to create simulations
+          and various fixed income securities - caps, swaps, bonds, etc.
+
+old_project_entries:
+  - title: Economics Junior Thesis.
+    url: https://www.soopr.com
+    desc: Junior Economics thesis paper about risks of negative interest rates.
+    highlight: NEW
+
+  - title: Another Project
+    url: https://github.com/abhinavs/cookie
+    desc: An open source landing website with supporting pages and integrated blog
+
+footer_entries:
+  - title: link
+    url: link
+
+  - title: twitter
+    url: https://twitter.com/abhinav
+
+  - title: github
+    url: https://github.com/abhinavs
+
+  - title: feed
+    url: feed.xml
+
+misc_entries:
+  - title: this is an example vertical list
+    url: false
+
+  - title: you can show or hide using a boolean flag in _config.yml
+    url: false
+
+  - title: and you can add data in _data/home.yml
+    url: false
+
+  - title: Blog posts
+    post_list: true
+    url: false
+
+  - title: moonwalk on the Internet
+    url: false
+    entries:
+      - title: on Github
+        url: https://github.com/abhinavs/moonwalk
+
+      - title: originally built for abhinav's homepage
+        url: https://www.abhinav.co
+
+      - title: this list is scalable and can be nested
+        url: false
+        entries:
+          - title: this is nested inside a nested list
+            url: false
+
+          - title: it is easy to use, see _data/home.yml to see how to configure it.
+            url: false
+
+
