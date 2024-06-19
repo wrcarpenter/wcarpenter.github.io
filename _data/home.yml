@@ -22,6 +22,17 @@ project_entries:
     url: overview-post
     desc: Data-driven, sports wagering model for MMA (mixed-martial-arts) contests.
     highlight: FOCUS
+  
+  - title: Interest Rate Models
+    url: overview-post
+    desc: Python method to create a Ho-Lee binomial rate model for fixed income security pricing (caps, swaps, bonds, etc.)
+    highlight: NEW
+
+  - title: Z-spread
+    url: overview-post
+    desc: Python methods for bootstrapping a spot rate curve and calculating Z-spread for fixed income securities.
+    highlight: NEW
+    
 
 old_project_entries:
   - title: Economics Junior Thesis.
