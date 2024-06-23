@@ -28,11 +28,15 @@ project_entries:
     desc: Python method to create a Ho-Lee binomial rate model for fixed income security pricing (caps, swaps, bonds, etc.)
     highlight: NEW
 
-  - title: Z-spread
-    url: overview-post
+  - title: Z-Spread for Fixed Income
+    url: 2024-04-08-Z-Spread-post
     desc: Python methods for bootstrapping a spot rate curve and calculating Z-spread for fixed income securities.
     highlight: NEW
-    
+
+  - title: Pythonic-Poker
+    url: 2024-04-08-Z-Spread-post
+    desc: Implementing a poker game engine and strategy in Python.
+    highlight: FOCUS
 
 old_project_entries:
   - title: Economics Junior Thesis.
